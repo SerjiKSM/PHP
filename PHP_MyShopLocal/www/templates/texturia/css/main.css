@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+
+ 
+.hideme{
+	display: none;
+}
+
+
+
+#registerBoxHidden{
+	display: none;
+}

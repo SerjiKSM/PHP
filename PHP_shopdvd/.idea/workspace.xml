@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/tmpl/main.tpl" line="100" />
+    <bookmark url="file://$PROJECT_DIR$/lib/Product_class.php" line="93" />
+    <bookmark url="file://$PROJECT_DIR$/styles/main.css" line="425" />
+    <bookmark url="file://$PROJECT_DIR$/lib/Manage_class.php" line="38" />
+    <bookmark url="file://$PROJECT_DIR$/lib/Product_class.php" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/admin/comp/AdminProductsContent_class.php" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/admin/comp/AdminForm_class.php" line="44" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/lib/GlobalClass_class.php" line="47" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/lib/ManageAdmin_class.php" line="211" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/lib/DataBase_class.php" line="34" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3737204-1903-4c55-9826-d1c2dce94af7" name="Default" comment="" />
+    <ignored path="shopdvd.local.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="shopdvd.local" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="shopdvd-local.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/!makeup/SQL/shopdvd-local.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1209">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/start.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_auth.tpl" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminAuthContent_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/menu.tpl" />
+        <option value="$PROJECT_DIR$/lib/URLAdmin_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/products.tpl" />
+        <option value="$PROJECT_DIR$/lib/Config_class.php" />
+        <option value="$PROJECT_DIR$/lib/Manage_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_product_form.tpl" />
+        <option value="$PROJECT_DIR$/lib/Url_class.php" />
+        <option value="$PROJECT_DIR$/lib/Template_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_products.tpl" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminProductsContent_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_sections.tpl.php" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminSectionsContent_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_section_form.tpl" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_sections.tpl" />
+        <option value="$PROJECT_DIR$/admin/tmpl/pagination.tpl" />
+        <option value="$PROJECT_DIR$/lib/Section_class.php" />
+        <option value="$PROJECT_DIR$/comp/CartContent_class.php" />
+        <option value="$PROJECT_DIR$/lib/AbstractModules_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_orders.tpl" />
+        <option value="$PROJECT_DIR$/admin/styles/main.css" />
+        <option value="$PROJECT_DIR$/lib/Product_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/main.tpl" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_order_form.tpl" />
+        <option value="$PROJECT_DIR$/admin/js/functions.js" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminOrdersContent_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_discount.tpl" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminDiscountsContent_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_discount_form.tpl" />
+        <option value="$PROJECT_DIR$/admin/functions.php" />
+        <option value="$PROJECT_DIR$/lib/Check_class.php" />
+        <option value="$PROJECT_DIR$/lib/text/messages.ini" />
+        <option value="$PROJECT_DIR$/lib/Discount_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_statistics.tpl" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminContent_class.php" />
+        <option value="$PROJECT_DIR$/admin/tmpl/content_index.tpl" />
+        <option value="$PROJECT_DIR$/lib/Format_class.php" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminModules_class.php" />
+        <option value="$PROJECT_DIR$/lib/Order_class.php" />
+        <option value="$PROJECT_DIR$/lib/Statistics_class.php" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminStatisticsContent_class.php" />
+        <option value="$PROJECT_DIR$/admin/comp/AdminForm_class.php" />
+        <option value="$PROJECT_DIR$/lib/GlobalClass_class.php" />
+        <option value="$PROJECT_DIR$/lib/ManageAdmin_class.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/lib/DataBase_class.php" />
+        <option value="$PROJECT_DIR$/tmpl/main.tpl" />
+        <option value="$PROJECT_DIR$/tmpl/content_contacts.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="90" />
+    <option name="width" value="1366" />
+    <option name="height" value="648" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopdvd.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopdvd.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopdvd.local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopdvd.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopdvd.local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="!makeup" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopdvd.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopdvd.local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="!makeup" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SQL" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHP\PHP_Storm\OpenServer\domains\shopdvd.local\admin" />
+      <recent name="D:\PHP\PHP_Storm\OpenServer\domains\shopdvd.local\admin\tmpl" />
+      <recent name="D:\PHP\PHP_Storm\OpenServer\domains\shopdvd.local\admin\comp" />
+      <recent name="D:\PHP\PHP_Storm\OpenServer\domains\shopdvd.local\comp" />
+      <recent name="D:\PHP\PHP_Storm\OpenServer\domains\www\shopdvd.local" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHP\PHP_Storm\OpenServer\domains\shopdvd.local\comp" />
+      <recent name="D:\PHP\PHP_Storm\OpenServer\domains\shopdvd.local\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.1">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="1" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.1" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3737204-1903-4c55-9826-d1c2dce94af7" name="Default" comment="" />
+      <created>1481704007288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1481704007288</updated>
+      <workItem from="1481704019873" duration="9139000" />
+      <workItem from="1481786452851" duration="15002000" />
+      <workItem from="1481832832365" duration="17684000" />
+      <workItem from="1481925706971" duration="6420000" />
+      <workItem from="1481960699458" duration="12865000" />
+      <workItem from="1482013647096" duration="27641000" />
+      <workItem from="1482151444959" duration="99850000" />
+      <workItem from="1482486919164" duration="92301000" />
+      <workItem from="1482924264397" duration="19835000" />
+      <workItem from="1483026026823" duration="58460000" />
+      <workItem from="1483289419831" duration="62250000" />
+      <workItem from="1483461996172" duration="124796000" />
+      <workItem from="1484212345494" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="546914000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="90" width="1366" height="648" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.237366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31390977" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/test.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/comp/Modules_class.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/lib/GlobalClass_class.php</url>
+          <line>148</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/lib/GlobalClass_class.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/comp/OrderContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminAuthContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comp/CartContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_products.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/pagination.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_product_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Product_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="n#checkSortUp#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="n#getAllOnSectionID#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="e#2107#2226#0#PHP" expanded="false" />
+            <element signature="n#getAllSort#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="e#2376#2455#0#PHP" expanded="false" />
+            <element signature="e#2503#2537#0#PHP" expanded="false" />
+            <element signature="n#getProduct#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="e#2836#2886#0#PHP" expanded="false" />
+            <element signature="n#getOthers#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="n#getAllOnIDs#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="e#4129#4242#0#PHP" expanded="false" />
+            <element signature="n#getPriceOnIDs#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="e#4537#4641#0#PHP" expanded="false" />
+            <element signature="e#4658#4731#0#PHP" expanded="false" />
+            <element signature="n#searchText#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="e#4808#4968#0#PHP" expanded="false" />
+            <element signature="e#5150#5224#0#PHP" expanded="false" />
+            <element signature="e#5227#5297#0#PHP" expanded="false" />
+            <element signature="e#5300#5371#0#PHP" expanded="false" />
+            <element signature="e#5374#5441#0#PHP" expanded="false" />
+            <element signature="e#5444#5518#0#PHP" expanded="false" />
+            <element signature="e#5521#5597#0#PHP" expanded="false" />
+            <element signature="e#5600#5667#0#PHP" expanded="false" />
+            <element signature="e#5670#5737#0#PHP" expanded="false" />
+            <element signature="e#5740#5821#0#PHP" expanded="false" />
+            <element signature="e#5824#5890#0#PHP" expanded="false" />
+            <element signature="e#5893#5961#0#PHP" expanded="false" />
+            <element signature="n#getDate#0;n#Product#0;n#!!top" expanded="false" />
+            <element signature="n#getImg#0;n#Product#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/main.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminSectionsContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="29" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Url_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="161" column="20" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Section_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_discounts.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_section_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminDiscountsContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_discount_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/URLAdmin_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Check_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/text/messages.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Discount_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_sections.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/menu.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="697" column="9" selection-start-line="697" selection-start-column="9" selection-end-line="697" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/AbstractModules_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Format_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Template_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Statistics_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminStatisticsContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_statistics.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminModules_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_orders.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tmpl/content_order_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="101" column="51" selection-start-line="101" selection-start-column="47" selection-end-line="101" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminOrdersContent_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="491" column="20" selection-start-line="491" selection-start-column="20" selection-end-line="491" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Order_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/comp/AdminForm_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ManageAdmin_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="217" column="8" selection-start-line="217" selection-start-column="8" selection-end-line="217" selection-end-column="8" />
+          <folding>
+            <element signature="n#__construct#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="n#auth#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="e#526#678#0#PHP" expanded="false" />
+            <element signature="e#624#678#0#PHP" expanded="false" />
+            <element signature="n#logout#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="n#addProduct#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="e#925#957#0#PHP" expanded="false" />
+            <element signature="e#991#1144#0#PHP" expanded="false" />
+            <element signature="e#1118#1144#0#PHP" expanded="false" />
+            <element signature="e#1373#1592#0#PHP" expanded="false" />
+            <element signature="e#1428#1592#0#PHP" expanded="false" />
+            <element signature="e#1526#1559#0#PHP" expanded="false" />
+            <element signature="e#1595#1768#0#PHP" expanded="false" />
+            <element signature="e#1742#1768#0#PHP" expanded="false" />
+            <element signature="n#deleteProduct#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="e#1916#2068#0#PHP" expanded="false" />
+            <element signature="e#2022#2068#0#PHP" expanded="false" />
+            <element signature="n#loadImage#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="e#2133#2198#0#PHP" expanded="false" />
+            <element signature="e#2201#2250#0#PHP" expanded="false" />
+            <element signature="e#2324#2406#0#PHP" expanded="false" />
+            <element signature="e#2412#2540#0#PHP" expanded="false" />
+            <element signature="e#2494#2540#0#PHP" expanded="false" />
+            <element signature="n#isSecure#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="e#2658#2763#0#PHP" expanded="false" />
+            <element signature="e#2693#2759#0#PHP" expanded="false" />
+            <element signature="e#2817#2950#0#PHP" expanded="false" />
+            <element signature="n#dataProduct#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="n#addSection#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="n#editSection#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="n#addOrder#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="n#deleteOrder#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+            <element signature="n#dataOrder#0;n#ManageAdmin#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DataBase_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GlobalClass_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="n#add#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="e#621#668#0#PHP" expanded="false" />
+            <element signature="e#724#790#0#PHP" expanded="false" />
+            <element signature="e#853#926#0#PHP" expanded="false" />
+            <element signature="n#delete#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="e#1721#1836#0#PHP" expanded="false" />
+            <element signature="e#1763#1836#0#PHP" expanded="false" />
+            <element signature="n#checkData#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="n#existID#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="e#1936#1984#0#PHP" expanded="false" />
+            <element signature="n#isExistFV#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="n#getAllOnField#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="n#getTableName#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#GlobalClass#0;n#!!top" expanded="false" />
+            <element signature="e#4590#4636#0#PHP" expanded="false" />
+            <element signature="e#4662#4703#0#PHP" expanded="false" />
+            <element signature="e#4877#5192#0#PHP" expanded="false" />
+            <element signature="e#4978#5182#0#PHP" expanded="false" />
+            <element signature="e#5117#5177#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmpl/main.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Manage_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-915">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmpl/content_contacts.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="146" selection-start-line="8" selection-start-column="146" selection-end-line="8" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/!makeup/SQL/shopdvd-local.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1209">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

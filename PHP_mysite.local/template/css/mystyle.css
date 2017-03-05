@@ -1,0 +1,85 @@
+
+.letter{
+	color: red; Цвет символа
+    font-size: 100%; Размер шрифта
+}
+
+.test{
+	color: blue; /* Цвет символа */
+	font-size: 200%; /* Размер шрифта */
+}
+
+
+#nav {
+		
+	top: 52%; /* Отступ в процентах от верхнего края окна */
+	left: 50%; /* Отступ в процентах от левого края окна */
+	//width: 450px; /* Ширина блока */
+	//height: 450px; /* Высота блока */
+	position: absolute; /* Абсолютное позиционирование блока */
+	margin-top: 230px ; /* Отрицательный отступ от верхнего края страницы, должен равняться половине высоты блока со знаком минус */
+	margin-left: -225px; /* Отрицательный отступ от левого края страницы, должен равняться половине высоты блока со знаком минус */
+		
+}
+
+#footer{
+	margin: 15px 0px 0px 0px;
+	margin-top: 71px ;
+}
+
+.product-image-wrapper{
+	margin-right: 20px; /* Отступ справа */
+}
+
+
+
+.add-to-cart {
+	
+	margin-bottom: 25px;
+	/*
+	position: relative;
+	z-index: 1;
+	color: black;
+	font-size: 135%;
+	font-weight: 700;
+	text-decoration: none;
+	padding: .25em .5em;
+	*/
+}
+
+.add-to-cart:after {
+  
+	content: "Купить";  /* здесь 6 букв */
+  position: absolute;
+  z-index: -1;
+  top: -2px;
+  bottom: -2px;
+  left: 0px;
+  width: calc(100% + 6*(1em*90/135) - 2px*2*2);  /* где 6*(1em*90/135), где 6 - это 6 букв, 90 - это font-size after, а 135 - это font-size родителя */
+  text-align: right;
+  color: #fff;
+  font-size: 90%;
+  padding: .25em .5em;
+  border-radius: 5px;
+  border: 2px solid #c61e40;
+  -webkit-transform: skewX(-10deg);
+  transform: skewX(-10deg);
+  background: linear-gradient(#d4536d, #c61e40) no-repeat 100% 0;
+  background-size: calc(6*(1em*90/135) + .5em) 100%;
+  box-shadow: inset calc(-6*(1em*90/135) - .5em) 0 rgba(255,255,255,0);
+  transition: .3s;	
+	
+}
+
+.add-to-cart:hover:after {
+ 	box-shadow: inset calc(-6*(1em*90/135) - .5em) 0 rgba(255,255,255,.2);
+ }
+ 
+.add-to-cart:active:after {
+ 	background-image: linear-gradient(#c61e40, #d4536d);
+}
+
+
+
+
+

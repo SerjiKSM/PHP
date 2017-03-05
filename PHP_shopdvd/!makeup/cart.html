@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+	<head>
+		<title>Интернет-магазин</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Интернет-магазин по продаже DVD-дисков!" />
+		<meta name="keywords" content="интернет магазин, интернет магазин dvd, интернет магазин dvd диски" />
+		<link type="text/css" rel="stylesheet" href="styles/main.css" />
+		<!-- [if IE 8]
+			<link type="text/css" rel="stylesheet" href="styles/ie8.css" />	
+		[endif] -->
+		<script type="text/javascript" src="js/functions.js"></script>	
+	</head>
+	
+	<body>
+		<div id="container">
+			<div id="header">
+				<img src="images/section_s.png" alt="Шапка" />	
+				<div>
+					<p class="red">8-800-123-45-67</p>
+					<p class="blue">Время работы с 09:00 до 21:00<br />без перерыва и выходных</p>						
+				</div>
+				<div class="cart">
+					<!-- <a class="cart_title">Корзина</a> -->
+					
+					<p class="cart_title">Корзина</p>
+					<p class="blue">Текущий заказ</p>
+					<p>В корзине <span>2</span> товара<br />на сумму <span>700</span> грн</p>					
+					<img src="images/shopping-cart.png" alt="Корзина" align="right" />
+					<a href="#">Перейти в корзину</a>
+				 
+				</div>	<!-- cart -->			
+			</div> <!-- header -->
+			
+			<div id="topmenu">
+				<ul>
+					<li>
+						<a class="chose" href="#">ГЛАВНАЯ</a>
+					</li>
+					<li>
+						<a class="razdelitel">|</a>
+						<!-- <img src="images/section_bg.png" alt="Разделитель" /> -->
+					</li>
+					<li>
+						<a class="chose" href="#">ОПЛАТА И ДОСТАВКА</a>
+					</li>
+					<li>
+						<a class="razdelitel">|</a>
+						<!-- <img src="images/section_bg.png" alt="Разделитель" /> -->
+					</li>
+					<li>
+						<a class="chose" href="#">КОНТАКТЫ</a>
+					</li>
+					<li>
+						<a class="razdelitel">|</a>
+						<!-- <img src="images/section_bg.png" alt="Разделитель" /> -->
+					</li>
+				</ul>
+				<div id="search">
+					<form name="search" action="#" method="get">
+						<table>
+							<tr>
+								<td class="input_left"></td>
+								<td>
+									<input type="text" name="q" value="поиск" onfocus="if(this.value == 'поиск') this.value = ''" onblur="if(this.value == '') this.value = 'поиск'"/>
+								</td>
+								<td class="input_right"></td>
+							</tr>
+						</table>
+					</form>
+				</div> <!-- search -->	
+			</div> <!-- topmenu -->
+			<div id="content">
+				<div id="left">
+					<div id="menu">
+						<div class="header">
+							<h3>Разделы</h3>							
+						</div> <!-- header -->
+						<div id="items">
+							<p>
+								<a href="#">Комедии</a>
+							</p>
+							<p>
+								<a href="#">Исторические</a>
+							</p>							
+							<p>
+								<a href="#">Мелодрамы</a>
+							</p>
+							<p>
+								<a href="#">Триллеры</a>
+							</p>
+							<p class="last">
+								<a href="#">Боевики</a>
+							</p>							
+						</div> <!-- items -->
+						
+						<div class="bottom">
+						
+						</div> <!-- bottom -->
+					
+					</div> <!-- menu -->	
+				
+				</div> <!-- left -->
+				
+				<div id="right">
+					<div id="cart">
+						<h2>Корзина</h2>
+						<table>
+							<!-- <tr>
+								<td colspan="8" id="cart_top"></td>
+							</tr> -->
+							
+							<tr>
+								<!-- <td class="cart_left"></td> -->
+								<td colspan="2">Товар</td>
+								<td>Цена за 1 шт.</td>
+								<td>Количество</td>
+								<td>Стоимость</td>
+								<td></td>
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							<tr>
+								<!-- <td class="cart_left"></td> -->
+								<td colspan="6">
+									<hr />
+								</td>							
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							<tr class="cart_row">
+								<!-- <td class="cart_left"></td> -->
+								<td class="img">
+									<img src="images/bonus.png" alt="Ледниковый период 4: Континентальный дрейф" />
+								</td>
+								<td class="title">Ледниковый период 4: Континентальный дрейф</td>
+								<td class="bold">170 ргн.</td>
+								<td>
+									<input type="text" name="count" value="1" /> шт.
+								</td>	
+								<td>
+									<a href="#" class="link_delete">x удалить</a>
+								</td>								
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							<tr>
+								<!-- <td class="cart_left"></td> -->
+								<td class="cart_border" colspan="6">
+									<hr />
+								</td>							
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							
+							<tr class="cart_row">
+								<!-- <td class="cart_left"></td> -->
+								<td class="img">
+									<img src="images/bonus.png" alt="Ледниковый период 4: Континентальный дрейф" />
+								</td>
+								<td class="title">Ледниковый период 4: Континентальный дрейф</td>
+								<td class="bold">170 ргн.</td>
+								<td>
+									<input type="text" name="count" value="1" /> шт.
+								</td>	
+								<td>
+									<a href="#" class="link_delete">x удалить</a>
+								</td>								
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							<tr>
+								<!-- <td class="cart_left"></td> -->
+								<td class="cart_border" colspan="6">
+									<hr />
+								</td>							
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							
+							<tr class="cart_row">
+								<!-- <td class="cart_left"></td> -->
+								<td class="img">
+									<img src="images/bonus.png" alt="Ледниковый период 4: Континентальный дрейф" />
+								</td>
+								<td class="title">Ледниковый период 4: Континентальный дрейф</td>
+								<td class="bold">170 ргн.</td>
+								<td>
+									<input type="text" name="count" value="1" /> шт.
+								</td>	
+								<td>
+									<a href="#" class="link_delete">x удалить</a>
+								</td>								
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							<tr>
+								<!-- <td class="cart_left"></td> -->
+								<td class="cart_border" colspan="6">
+									<hr />
+								</td>							
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							
+							<tr class="cart_row">
+								<!-- <td class="cart_left"></td> -->
+								<td class="img">
+									<img src="images/bonus.png" alt="Ледниковый период 4: Континентальный дрейф" />
+								</td>
+								<td class="title">Ледниковый период 4: Континентальный дрейф</td>
+								<td class="bold">170 ргн.</td>
+								<td>
+									<input type="text" name="count" value="1" /> шт.
+								</td>	
+								<td>
+									<a href="#" class="link_delete">x удалить</a>
+								</td>								
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							<tr>
+								<!-- <td class="cart_left"></td> -->
+								<td class="cart_border" colspan="6">
+									<hr />
+								</td>							
+								<!-- <td class="cart_right"></td> -->
+							</tr>
+							
+							<tr id="discount">
+								<!-- <td class="cart_left"></td> -->
+								<td class="" colspan="6">
+									<form name="discount" action="#" method="post">
+										<table>
+											<tr>
+												<td>Введите номер купона со скудкой<br /><span>(если есть)</span></td>
+												<td>
+													<input type="text" name="discount" />
+												</td>
+												<td class="submit_get_discount">
+													<!-- <input type="image" src="images/add2cart_blue_ru.gif" alt="Получить скидку" onmouseover="this.src='images/add2cart_red_ru.gif'" onmouseout="this.src='images/add2cart_blue_ru.gif'" /> -->
+													
+													<input type="submit" value="Получить скидку">
+												</td>
+											</tr>
+										</table>
+									</form>
+								</td>
+								
+								<!-- <td class="cart_right"></td> -->								
+							</tr>
+							
+							<tr id="summa">
+								<!-- <td class="cart_left"></td> -->
+								<td class="" colspan="6">
+									<p>Итого: <span>2000 грн.</span></p>	
+								</td>								
+								<!-- <td class="cart_right"></td> -->								
+							</tr>
+							
+							<tr>
+								<!-- <td class="cart_left"></td> -->
+								<td class="left" colspan="2">
+									<form name="recalc" action="#" method="post" >
+										<p><input type="submit" value="Пересчитать"></p>
+									</form>	
+								</td>
+
+								<td  colspan="4">
+									<form name="recalc" action="#" method="post" >
+										<p><input type="submit" value="Оформить заказ" class="right"></p>
+									</form>	
+								</td>	
+								<!-- <td class="cart_right"></td> -->								
+							</tr>
+							<!-- <tr>
+								<td colspan="8" id="cart_bottom"></td>
+							</tr> -->
+						</table>
+					</div>					
+				</div> <!-- right -->
+			
+				<div class="clear">
+						
+				</div>
+				
+				<div id="footer">
+					<div id="pm">
+						<table>
+							<tr>
+								<td>Способы оплаты:</td>
+								<td>
+									<img src="images/american-express-curved-32px.png" alt="Способы оплаты"> 
+								</td>
+								<td>
+									<img src="images/mastercard-straight-32px.png" alt="Способы оплаты"> 
+								</td>
+								<td>
+									<img src="images/visa-electron-curved-32px.png" alt="Способы оплаты"> 
+								</td>
+								<td>
+									<img src="images/western-union-curved-32px.png" alt="Способы оплаты"> 
+								</td>
+								<td>
+									<img src="images/switch-curved-32px.png" alt="Способы оплаты"> 
+								</td>
+							</tr>
+						</table>
+					</div>	<!-- pm -->		
+					
+					<div id="copy">
+						<p class="label_footer">Copyright &copy; Site.ru. Все права защищены.</p>
+					    <p class="counter">
+							<!-- <img src="images/footer.png" alt="футер"> -->
+							<img src="images/counter.png" alt="Счетчик">
+						</p>
+					</div>
+					
+				</div> <!-- footer -->
+				
+			</div> <!-- content -->
+		
+		</div> <!-- container -->
+	
+	</body>
+	
+</html>	
